@@ -1,0 +1,5 @@
+ratebeer
+BeautifulSoup4
+requests
+lxml
+
